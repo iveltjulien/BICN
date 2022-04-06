@@ -1,0 +1,2 @@
+# BICN
+BI Consulting Network
